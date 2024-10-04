@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>carrossel</title>
+<link rel="stylesheet" href="nc.css">
+</head>
+<body>
+<div class="carrossel">
+  <div class="carrossel-seg">
+   <div class="carrossel-objeto">
+      <img src="ing.jpg" alt="imagem 1">
+   </div>
+
+   <div class="carrossel-objeto"></div>
+     <img src="image.png" alt="imagem 2">
+   </div>
+
+   <div class="carrossel-objeto"></div>
+     <img src="img.jpg" alt="imagem 3">
+   </div>
+  </div>
+</div>
+  <!-- Bolinhas de navegação -->
+   <div class="bolinhas">
+    <span class="bolinha"></span>
+    <span class="bolinha"></span>
+    <span class="bolinha"></span>
+   </div>
+
+</body> 
+</html>
